@@ -1,0 +1,57 @@
+body {
+  font-family: Verdana, sans-serif;
+  background-color: black;
+}
+.tooltip {
+	border-style: groove;
+	background-color: #080d21;
+	border-width: thin;
+	padding: 5px;
+}
+.tooltip table {
+	border-spacing: 0;
+	border-collapse: collapse;
+} 
+.tooltip td {
+	font-size: 12px;
+	color: white;
+} 
+.tooltip th {
+	font-size: 12px;
+	color: white;
+	font-weight: normal;
+	text-align: right
+} 
+.name {
+	font-size: 14px;
+}
+.artifact {
+	color: #e5cc80;
+}
+.legendary {
+	color: #ff8000;
+}
+.epic {
+	color: #a335ee;
+}
+.rare {
+	color: #0070dd;
+}
+.uncommon {
+	color: #1eff00;
+}
+.common {
+	color: white;
+}
+.poor {
+	color: #9d9d9d;
+}
+.effect {
+	color: #1eff00;
+}
+.set-name {
+	color: #ffd100;
+}
+.indent {
+	padding-left:.6em;
+}
